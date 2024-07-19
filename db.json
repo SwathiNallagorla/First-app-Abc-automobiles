@@ -1,0 +1,64 @@
+{
+    "vehicles":[
+        {
+            "id":1,
+            "image":"https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Toyota Corolla",
+            "price":20000,
+            "mileage":15000,
+            "color":"White",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A reliable family car"
+        },
+        {
+            "id":2,
+            "image":"https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Ferrari",
+            "price":20000,
+            "mileage":10000,
+            "color":"Yellow",
+            "seats":5,
+            "fuel":"Diesel",
+            "gear":"Manual",
+            "description":"A reliable family car"
+        },
+        {
+            "id":3,
+            "image":"https://images.pexels.com/photos/712618/pexels-photo-712618.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Lamborgini",
+            "price":200000,
+            "mileage":15000,
+            "color":"Orange",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"The stylish sports car"
+        },
+        {
+            "id":4,
+            "image":"https://images.pexels.com/photos/100656/pexels-photo-100656.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Rolls royce",
+            "price":25000,
+            "mileage":10000,
+            "color":"White",
+            "seats":8,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A reliable and stylish family car"
+        },
+        {
+            "id":5,
+            "image":"https://images.pexels.com/photos/1035108/pexels-photo-1035108.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"BMW",
+            "price":200000,
+            "mileage":15000,
+            "color":"Blue",
+            "seats":5,
+            "fuel":"Diesel",
+            "gear":"Manual",
+            "description":"A reliable family car"
+        }
+    ]
+}
